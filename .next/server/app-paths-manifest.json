@@ -1,8 +1,0 @@
-{
-  "/lookbook/[id]/page": "app/lookbook/[id]/page.js",
-  "/o-mnie/page": "app/o-mnie/page.js",
-  "/kontakt/page": "app/kontakt/page.js",
-  "/lookbook/page": "app/lookbook/page.js",
-  "/page": "app/page.js",
-  "/favicon.ico/route": "app/favicon.ico/route.js"
-}
